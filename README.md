@@ -1,6 +1,5 @@
 # commission-manager
 Commission Manager - Creator Management Tool
-# Commission Manager
 
 **Commission Manager v1.0**
 
