@@ -1,6 +1,4 @@
 # commission-manager
-Commission Manager - Creator Management Tool
-
 **Commission Manager v1.0**
 
 クリエイター向けの依頼管理ツールです。
